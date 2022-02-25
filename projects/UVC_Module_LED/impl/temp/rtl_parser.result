@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/Andrew Dudaronek/Desktop/UVC_Module_LED/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/Andrew Dudaronek/Desktop/UVC_Module_LED/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Andrew Dudaronek/Desktop/UVC_Module_LED/src/top.v",
+    "InstLine" : 8,
+    "InstName" : "your_instance_name",
+    "ModuleFile" : "C:/Users/Andrew Dudaronek/Desktop/UVC_Module_LED/src/gowin_osc/gowin_osc.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_OSC"
+   }
+  ]
+ }
+]
