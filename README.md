@@ -23,7 +23,7 @@ MagicJellyBean is an organization established to enable hobbyists, academic rese
 
 ## Demo Videos
 
-* [Dip Switch Displaying Different Numbers](https://www.youtube.com/watch?v=PhR9LzJD-3Y)
+* [U2X Programming Dongle Demo](https://www.youtube.com/watch?v=WsxJ_5IRQmE)
 
 
 ## Directory Information:
